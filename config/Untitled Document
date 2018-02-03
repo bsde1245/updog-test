@@ -1,0 +1,5 @@
+db_key: 'b18k554x4s3ldlx'
+db_secret: 'b18k554x4s3ldlx'
+db_callback: 'http://justinechacko.github.io/updog-test/auth/dropbox/callback'
+mailchimp_list_id: 'list id from mailchimp'
+mailchimp_api_key: 'your mailchimp api key'
